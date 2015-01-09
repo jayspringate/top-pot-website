@@ -14,12 +14,10 @@ function Shop(location, hours, minTraffic, maxTraffic, percentEntering, donutsPe
         console.log(this.location + " needs to produce " + this.donutsPerHour() + " donuts hour " + hours);
     }
   }; 
-  var location = new Shop(document.getElementByID('location'),
-  (document.getElementByID('hours'),
-  (document.getElementByID('minTraffic'),
-  (document.getElementByID('maxTraffic'),
-  (document.getElementByID('percentEntering'),
-  (document.getElementByID('donutsPerCustomer'));
 
   
-  location.salesReport();
+
+  
+
+  
+  
